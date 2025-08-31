@@ -32,9 +32,7 @@ export default function Page() {
           <p>
             We use Your Personal data to provide and improve the Service. By
             using the Service, You agree to the collection and use of
-            information in accordance with this Privacy Policy. This Privacy
-            Policy has been created with the help of the Privacy Policy
-            Generator.
+            information in accordance with this Privacy Policy.
           </p>
         </section>
 
@@ -119,6 +117,7 @@ export default function Page() {
             <li>Phone number</li>
             <li>Address, State, Province, ZIP/Postal code, City</li>
             <li>Usage Data</li>
+            <li>Photo (profile pictures)</li>
           </ul>
 
           <h4 className="text-base font-semibold">Usage Data</h4>
